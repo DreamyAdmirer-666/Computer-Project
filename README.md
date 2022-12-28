@@ -1,1 +1,2 @@
-#Computer Project using Python
+# ComputerProject
+Computer Project
